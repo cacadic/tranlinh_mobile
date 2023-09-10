@@ -1,0 +1,17 @@
+[
+  { "label": "Mã khách hàng", "value": "maKhachHang" },
+  { "label": "Tên khách hàng", "value": "tenKhachHang" },
+  { "label": "Số điện thoại", "value": "soDienThoai" },
+  { "label": "Nhóm khách hàng", "value": "nhomKhachHang" },
+  { "label": "Nợ hiện tại", "value": "noHienTai" },
+  { "label": "Tổng chi tiêu", "value": "tongChiTieu" },
+  { "label": "Lợi nhuận", "value": "loiNhuan" },
+  { "label": "SL đơn hàng", "value": "slDonHang" },
+  { "label": "Ngày tạo", "value": "ngayTao" },
+  { "label": "Ngày cập nhật", "value": "ngayCapNhat" },
+  { "label": "Trạng thái", "value": "trangThai" },
+  { "label": "Địa chỉ", "value": "diaChi" },
+  { "label": "Ngày cuối mua hàng", "value": "ngayCuoiMuaHang" },
+  { "label": "Giới tính", "value": "gioiTinh" },
+  { "label": "SL phiếu sửa chữa", "value": "slPhieuSuaChua" }
+]

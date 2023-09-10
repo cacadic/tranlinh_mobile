@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "antd/dist/reset.css";
+
+@import "./core/keyframe";
+@import "./core/mixin";
+@import "./core/variables";
+@import "./core/base";
+@import "./core/typo";
+
+@import "./components/dieuchinh";
+@import "./components/bo-loc-modal";
+
+html {
+  user-select: none;
+  background-color: var(--background);
+}
